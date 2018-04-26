@@ -6,13 +6,17 @@ description = "digital signal processing tools"
 repository = "https://github.com/clearlycloudy/processig/"
 keywords = [ "dsp", "signals" ]
 license = "MIT"
-documentation = "https://docs.rs/processig/0.0.0/core/"
+documentation = "https://docs.rs/processig/0.0.0/src/"
 readme = "README.md"
 exclude = []
 
 [lib]
-name = "core"
-path = "core/lib.rs"
+name = "processig"
+path = "src/mod.rs"
+
+[[bin]]
+name = "usage"
+path = "examples/usage/main.rs"
 
 [dependencies]
 rand = "0.3"
