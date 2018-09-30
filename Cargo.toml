@@ -1,12 +1,12 @@
 [package]
 name = "processig"
-version = "0.0.0"
+version = "0.0.1"
 authors = ["YL <yuan6liu@gmail.com>"]
 description = "digital signal processing tools"
 repository = "https://github.com/clearlycloudy/processig/"
 keywords = [ "dsp", "signals" ]
 license = "MIT"
-documentation = "https://docs.rs/processig/0.0.0/src/"
+documentation = "https://docs.rs/processig/0.0.1/src/"
 readme = "README.md"
 exclude = []
 
@@ -20,7 +20,7 @@ path = "examples/usage/main.rs"
 
 [dependencies]
 rand = "0.3"
-num = "0.1.40"
+num = "0.2"
 log = "0.4.1"
 pretty_env_logger = "0.2.0"
 zpatial = "0.0.0"
