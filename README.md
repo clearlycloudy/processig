@@ -1,4 +1,4 @@
-# placeholder for signal processing tools
+# Placeholder for signal processing tools
 
 # Implementations
 
@@ -7,6 +7,4 @@
 ## Kalman filter
 
 ## Wavelet transform (todo)
-
-
 

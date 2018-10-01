@@ -4,7 +4,6 @@ pub mod utility;
 pub mod distribution;
 pub mod error;
 pub mod fft;
-pub mod subset_conv;
 pub mod pursuit;
     
 #[macro_use]

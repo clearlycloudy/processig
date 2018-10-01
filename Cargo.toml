@@ -6,7 +6,7 @@ description = "digital signal processing tools"
 repository = "https://github.com/clearlycloudy/processig/"
 keywords = [ "dsp", "signals" ]
 license = "MIT"
-documentation = "https://docs.rs/processig/0.0.1/src/"
+documentation = "https://docs.rs/processig/0.0.2/src/"
 readme = "README.md"
 exclude = []
 
